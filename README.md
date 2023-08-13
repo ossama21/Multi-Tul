@@ -1,5 +1,5 @@
 # MULTI-TUL:
-This code appears to be a Python script that creates a graphical user interface (GUI) application using the `tkinter` library, offering various functionalities related to system information, control settings, weather, clock, calendar, and launching certain applications. Let's break down the code into different sections to understand its functionality:
+This code is a Python script that creates a graphical user interface (GUI) application using the `tkinter` library, offering various functionalities related to system information, control settings, weather, clock, calendar, and launching certain applications. Let's break down the code into different sections to understand its functionality:
 
 1. **Importing Modules:**
    The code starts by importing various necessary modules, including `tkinter` for GUI, modules for controlling brightness, audio, weather information, time-related functions, calendar, and more.
